@@ -3,7 +3,7 @@ I have built a funny nlp project in glove.ipynp notebook.
 In this notebook we have used glove pretrained word embedding : https://nlp.stanford.edu/data/glove.42B.300d.zip
 I also integrate these word vector to gensim keyedVectors
 
-Uploading glove-word-embedding-app.mp4…
+https://user-images.githubusercontent.com/80037791/183480599-6730507f-5fc0-431e-bdf8-984ba00e4e0e.mp4
 
 .
 You can also see it's demo in video.
